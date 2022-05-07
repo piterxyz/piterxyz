@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"> Hi there
 
 I'm Peter - a passionate student from Poland with a goal to become a front-end developer.
 
@@ -7,7 +7,7 @@ I'm Peter - a passionate student from Poland with a goal to become a front-end d
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-## 📈 GithHub stats
+## 📈 GitHub stats
 <a href="https://github.com/piterxyz">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piterxyz&icon_color=2bbc8a&langs_count=3" alt="piterxyz's most used languages"/>
 </a>
