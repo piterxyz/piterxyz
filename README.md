@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=piterxyz&style=for-the-badge&color=red)
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"> Hi there
+## 👋 Hi there
 
 I'm Peter - a passionate student from Poland with a goal to become a front-end developer.
 
@@ -16,3 +15,5 @@ I'm Peter - a passionate student from Poland with a goal to become a front-end d
 <a href="https://github.com/piterxyz">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=piterxyz&show_icons=true&line_height=27&count_private=true&icon_color=2bbc8a" alt="piterxyz's GitHub stats"/>
 </a>
+
+![](https://komarev.com/ghpvc/?username=piterxyz&style=for-the-badge&color=red)
